@@ -1,5 +1,9 @@
 # 🛍️ Customer Shopping Behavior Analysis
 
+<p align="center">
+  <img src="https://github.com/sabbirakash/Customer-Shopping-Behavior-Analysis-Dashboard-Project/blob/main/Images/Customer%20Shopping%20Behaviour%20Analysis%20Banner.png">
+</p>
+
 ## 📘 Overview
 
 This project focuses on analyzing **customer shopping behavior** using real-world data. The goal is to identify spending patterns, popular product categories, and key factors influencing customer purchases. The end-to-end process includes **data loading, cleaning, EDA, SQL analysis, dashboard building in Power BI**, and **presentation creation using Gamma**.
