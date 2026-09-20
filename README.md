@@ -14,6 +14,16 @@ This project focuses on analyzing **customer shopping behavior** using real-worl
 
 The dataset contains detailed information on **3,900 customers**, covering demographics, shopping preferences, purchase amounts, payment methods, and more.
 
+---
+
+# 📊 Dashboard Preview
+
+<p align="center">
+<img src="https://github.com/sabbirakash/Customer-Shopping-Behavior-Analysis-Dashboard-Project/blob/main/Images/Dashboard%20SS.png" width="100%">
+</p>
+
+---
+
 **Key Columns:**
 
 * `Customer ID` — Unique identifier
